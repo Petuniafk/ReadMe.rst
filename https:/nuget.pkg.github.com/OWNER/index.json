@@ -6,7 +6,7 @@
     </packageSources>
     <packageSourceCredentials>
         <github>
-            <add key="SSO/fkelley047" value="dotnet nuget push "bin/Release/OctocatApp.1.0.0.nupkg"  --api-key" />
+            <add key="SSO/fkelley047" value="[![Test: Default](https://github.com/ampproject/amp.dev/actions/workflows/test-default.yml/badge.svg)](https://github.com/ampproject/amp.dev/actions/workflows/test-default.yml)"bin/Release/OctocatApp.1.0.0.nupkg"  --api-key" />
             <add key="ClearTextPassword" value="TOKEN" />
         </github>
     </packageSourceCredentials>
